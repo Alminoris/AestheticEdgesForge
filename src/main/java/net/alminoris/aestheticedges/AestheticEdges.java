@@ -24,9 +24,9 @@ public class AestheticEdges
     public static final String MOD_ID = "aestheticedges";
     private static final Logger LOGGER = LogUtils.getLogger();
 
-    public AestheticEdges(FMLJavaModLoadingContext context)
+    public AestheticEdges()
     {
-        IEventBus modEventBus = context.getModEventBus();
+        IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         modEventBus.addListener(this::commonSetup);
 
