@@ -25,7 +25,6 @@ import java.util.List;
 public class YAxisRotatedBlock extends Block implements SimpleWaterloggedBlock
 {
     public static final DirectionProperty FACING = BlockStateProperties.HORIZONTAL_FACING;
-
     List<BlockShape> shapes;
 
     public YAxisRotatedBlock(BlockBehaviour.Properties settings, BlockShape... shapes)
