@@ -30,6 +30,5 @@
     "recipes": [
       "aestheticedges:curtain_lime"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

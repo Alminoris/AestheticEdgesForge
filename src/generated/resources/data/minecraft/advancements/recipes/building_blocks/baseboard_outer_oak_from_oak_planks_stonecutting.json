@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:baseboard_outer_oak_from_oak_planks_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:curtain_rod_dark_oak_from_stripped_dark_oak_log_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

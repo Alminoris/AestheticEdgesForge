@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:curtain_rod_birch_from_stripped_birch_log_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:curtain_rod_granite_from_granite_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

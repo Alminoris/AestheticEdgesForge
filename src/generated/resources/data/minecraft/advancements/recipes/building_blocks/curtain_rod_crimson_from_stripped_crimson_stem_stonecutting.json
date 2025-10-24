@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:curtain_rod_crimson_from_stripped_crimson_stem_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

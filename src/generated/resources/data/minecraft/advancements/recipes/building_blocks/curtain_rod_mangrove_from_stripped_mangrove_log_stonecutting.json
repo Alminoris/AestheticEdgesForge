@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:curtain_rod_mangrove_from_stripped_mangrove_log_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

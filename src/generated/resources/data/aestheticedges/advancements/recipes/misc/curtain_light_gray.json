@@ -30,6 +30,5 @@
     "recipes": [
       "aestheticedges:curtain_light_gray"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:simple_curb_inner_blackstone_from_blackstone_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

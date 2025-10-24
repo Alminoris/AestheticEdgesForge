@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 4,
-  "ingredient": {
-    "item": "minecraft:bamboo_planks"
-  },
-  "result": "aestheticedges:baseboard_outer_bamboo"
-}

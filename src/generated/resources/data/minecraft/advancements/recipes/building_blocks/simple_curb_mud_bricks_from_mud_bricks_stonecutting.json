@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:simple_curb_mud_bricks_from_mud_bricks_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

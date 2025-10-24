@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:curtain_rod_warped_from_stripped_warped_stem_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

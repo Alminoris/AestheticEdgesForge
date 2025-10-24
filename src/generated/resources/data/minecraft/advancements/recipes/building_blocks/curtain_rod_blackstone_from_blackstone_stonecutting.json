@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:curtain_rod_blackstone_from_blackstone_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

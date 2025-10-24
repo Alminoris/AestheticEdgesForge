@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:simple_curb_basalt_side_from_basalt_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

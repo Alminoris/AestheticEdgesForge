@@ -43,6 +43,5 @@
     "recipes": [
       "aestheticedges:curtain_remover"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

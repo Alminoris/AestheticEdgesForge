@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:curtain_rod_acacia_from_stripped_acacia_log_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }

@@ -30,6 +30,5 @@
     "recipes": [
       "minecraft:curbstone_high_inner_tuff_from_tuff_stonecutting"
     ]
-  },
-  "sends_telemetry_event": false
+  }
 }
