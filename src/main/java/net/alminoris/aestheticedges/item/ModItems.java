@@ -22,11 +22,12 @@ public class ModItems
     {{
         for(String name : BlockSetsHelper.COLORS)
         {
-            put(name, registerItem("curtain_"+name, () -> new Item(new Item.Properties().stacksTo(16))));
+            put(name, registerItem("curtain_"+name, () -> new Item(new Item.Properties().stacksTo(16).tab(ModItemGroups.AEDGS_TAB))));
         }
     }};
 
-    public static final RegistryObject<Item> CURTAIN_REMOVER = registerItem("curtain_remover", () -> new TieredItem(Tiers.STONE, new Item.Properties().stacksTo(1)));
+    public static final RegistryObject<Item> CURTAIN_REMOVER = registerItem("curtain_remover", () -> new TieredItem(Tiers.STONE,
+            new Item.Properties().stacksTo(1).tab(ModItemGroups.AEDGS_TAB)));
 
     private static <T extends Item> RegistryObject<T> registerItem(String name, Supplier<T> item)
     {

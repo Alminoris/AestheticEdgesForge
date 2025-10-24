@@ -3,6 +3,7 @@ package net.alminoris.aestheticedges.block;
 import net.alminoris.aestheticedges.AestheticEdges;
 import net.alminoris.aestheticedges.block.custom.CurtainRodBlock;
 import net.alminoris.aestheticedges.block.custom.YAxisRotatedBlock;
+import net.alminoris.aestheticedges.item.ModItemGroups;
 import net.alminoris.aestheticedges.item.ModItems;
 import net.alminoris.aestheticedges.util.helper.BlockSetsHelper;
 import net.alminoris.aestheticedges.util.helper.BlockShape;
@@ -156,7 +157,7 @@ public class ModBlocks
 
     private static <T extends Block> void registerBlockItem(String name, RegistryObject<T> block)
     {
-        ModItems.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));
+        ModItems.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties().tab(ModItemGroups.AEDGS_TAB)));
     }
 
     public static void register(IEventBus eventBus)
