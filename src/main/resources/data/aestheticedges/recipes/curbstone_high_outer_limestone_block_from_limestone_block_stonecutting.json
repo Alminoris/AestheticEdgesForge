@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "wildfields:limestone_block"
+  },
+  "result": {
+    "count": 3,
+    "item": "aestheticedges:curbstone_high_outer_limestone_block"
+  }
+}

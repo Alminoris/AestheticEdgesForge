@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "arborealnature:mango_planks"
+  },
+  "result": {
+    "count": 3,
+    "item": "aestheticedges:baseboard_mango"
+  }
+}

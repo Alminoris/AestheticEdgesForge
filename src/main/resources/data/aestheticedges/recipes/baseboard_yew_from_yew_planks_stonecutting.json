@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "arborealnature:yew_planks"
+  },
+  "result": {
+    "count": 3,
+    "item": "aestheticedges:baseboard_yew"
+  }
+}

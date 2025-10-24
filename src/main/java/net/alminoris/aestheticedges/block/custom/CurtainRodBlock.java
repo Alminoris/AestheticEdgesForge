@@ -112,7 +112,7 @@ public class CurtainRodBlock extends YAxisRotatedBlock
     }
 
     @Override
-    protected InteractionResult useWithoutItem(BlockState state, Level world, BlockPos pos, Player player, BlockHitResult hit)
+    public InteractionResult use(BlockState state, Level world, BlockPos pos, Player player, InteractionHand hand, BlockHitResult hit)
     {
         ItemStack stack = player.getItemInHand(InteractionHand.MAIN_HAND);
 
@@ -189,7 +189,7 @@ public class CurtainRodBlock extends YAxisRotatedBlock
             return InteractionResult.SUCCESS;
         }
 
-        return super.useWithoutItem(state, world, pos, player, hit);
+        return super.use(state, world, pos, player, hand, hit);
     }
 
     @Override

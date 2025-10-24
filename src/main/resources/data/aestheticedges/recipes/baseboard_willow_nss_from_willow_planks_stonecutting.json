@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "natures_spirit:willow_planks"
+  },
+  "result": {
+    "count": 3,
+    "item": "aestheticedges:baseboard_willow_nss"
+  }
+}

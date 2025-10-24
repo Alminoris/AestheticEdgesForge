@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "arborealnature:bald_cypress_planks"
+  },
+  "result": {
+    "count": 3,
+    "item": "aestheticedges:baseboard_bald_cypress"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:quartz_block"
+  },
+  "result": "aestheticedges:curbstone_high_inner_quartz_block_bottom"
+}

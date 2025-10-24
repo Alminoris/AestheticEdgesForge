@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "wildfields:saltmarsh_block"
+  },
+  "result": {
+    "count": 2,
+    "item": "aestheticedges:curtain_rod_saltmarsh_block"
+  }
+}

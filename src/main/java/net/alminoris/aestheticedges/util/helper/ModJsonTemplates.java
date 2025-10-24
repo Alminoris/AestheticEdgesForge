@@ -968,7 +968,7 @@ public class ModJsonTemplates
               },
               "result": {
                 "count": COUNT,
-                "id": "aestheticedges:OUTPUT_NAME"
+                "item": "aestheticedges:OUTPUT_NAME"
               }
             }
             """;

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "arborealnature:bauhinia_planks"
+  },
+  "result": {
+    "count": 4,
+    "item": "aestheticedges:baseboard_outer_bauhinia"
+  }
+}

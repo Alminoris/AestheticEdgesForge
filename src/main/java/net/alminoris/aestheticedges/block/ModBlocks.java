@@ -28,7 +28,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getStones())
         {
-            put(name, registerBlock("curbstone_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.STONE),
+            put(name, registerBlock("curbstone_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.STONE),
                     new BlockShape(0, 0, 0, 16, 8, 8))));
         }
     }};
@@ -37,7 +37,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getStones())
         {
-            put(name, registerBlock("curbstone_inner_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.STONE),
+            put(name, registerBlock("curbstone_inner_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.STONE),
                     new BlockShape(0, 0, 0, 8, 8, 8), new BlockShape(8, 0, 0, 16, 8, 16))));
         }
     }};
@@ -46,7 +46,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getStones())
         {
-            put(name, registerBlock("curbstone_outer_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.STONE),
+            put(name, registerBlock("curbstone_outer_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.STONE),
                     new BlockShape(8, 0, 0, 16, 8, 8))));
         }
     }};
@@ -55,7 +55,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getStones())
         {
-            put(name, registerBlock("curbstone_high_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.STONE),
+            put(name, registerBlock("curbstone_high_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.STONE),
                     new BlockShape(0, 0, 0, 16, 16, 8))));
         }
     }};
@@ -64,7 +64,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getStones())
         {
-            put(name, registerBlock("curbstone_high_inner_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.STONE),
+            put(name, registerBlock("curbstone_high_inner_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.STONE),
                     new BlockShape(0, 0, 0, 8, 16, 8), new BlockShape(8, 0, 0, 16, 16, 16))));
         }
     }};
@@ -73,7 +73,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getStones())
         {
-            put(name, registerBlock("curbstone_high_outer_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.STONE),
+            put(name, registerBlock("curbstone_high_outer_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.STONE),
                     new BlockShape(8, 0, 0, 16, 16, 8))));
         }
     }};
@@ -82,7 +82,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getStones())
         {
-            put(name, registerBlock("simple_curb_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.STONE),
+            put(name, registerBlock("simple_curb_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.STONE),
                     new BlockShape(0, 0, 0, 16, 8, 8))));
         }
     }};
@@ -91,7 +91,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getStones())
         {
-            put(name, registerBlock("simple_curb_inner_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.STONE),
+            put(name, registerBlock("simple_curb_inner_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.STONE),
                     new BlockShape(0, 0, 0, 8, 8, 8), new BlockShape(8, 0, 0, 16, 8, 16))));
         }
     }};
@@ -100,7 +100,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getStones())
         {
-            put(name, registerBlock("simple_curb_outer_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.STONE),
+            put(name, registerBlock("simple_curb_outer_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.STONE),
                     new BlockShape(8, 0, 0, 16, 8, 8))));
         }
     }};
@@ -109,7 +109,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getWoods())
         {
-            put(name, registerBlock("baseboard_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS),
+            put(name, registerBlock("baseboard_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS),
                     new BlockShape(0, 0, 0, 16, 3, 3))));
         }
     }};
@@ -118,7 +118,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getWoods())
         {
-            put(name, registerBlock("baseboard_inner_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS),
+            put(name, registerBlock("baseboard_inner_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS),
                     new BlockShape(0, 0, 0, 16, 3, 3), new BlockShape(13, 0, 0, 16, 3, 16))));
         }
     }};
@@ -127,7 +127,7 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getWoods())
         {
-            put(name, registerBlock("baseboard_outer_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_PLANKS),
+            put(name, registerBlock("baseboard_outer_"+name, () -> new YAxisRotatedBlock(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS),
                     new BlockShape(13, 0, 0, 16, 3, 3))));
         }
     }};
@@ -136,13 +136,13 @@ public class ModBlocks
     {{
         for(String name : BlockSetsHelper.getWoods())
         {
-            put(name, registerBlock("curtain_rod_"+name, () -> new CurtainRodBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_WOOD),
+            put(name, registerBlock("curtain_rod_"+name, () -> new CurtainRodBlock(BlockBehaviour.Properties.copy(Blocks.OAK_WOOD),
                     new BlockShape(0, 14, 0, 16, 17, 3))));
         }
 
         for(String name : BlockSetsHelper.getStones())
         {
-            put(name, registerBlock("curtain_rod_"+name, () -> new CurtainRodBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.STONE),
+            put(name, registerBlock("curtain_rod_"+name, () -> new CurtainRodBlock(BlockBehaviour.Properties.copy(Blocks.STONE),
                     new BlockShape(0, 14, 0, 16, 17, 3))));
         }
     }};

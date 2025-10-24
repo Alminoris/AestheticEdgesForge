@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "natures_spirit:palo_verde_planks"
+  },
+  "result": {
+    "count": 3,
+    "item": "aestheticedges:baseboard_palo_verde_nss"
+  }
+}
