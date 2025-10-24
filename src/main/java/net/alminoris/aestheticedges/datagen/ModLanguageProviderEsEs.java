@@ -180,6 +180,6 @@ public class ModLanguageProviderEsEs extends LanguageProvider
 
         add("item." + AestheticEdges.MOD_ID + ".curtain_remover", "Quitacortinas");
 
-        add("itemgroup.aedgstab","Aesthetic Edges");
+        add("itemGroup.aestheticedges.aedgstab","Aesthetic Edges");
     }
 }

@@ -474,5 +474,5 @@
   "item.aestheticedges.curtain_remover": "Quitacortinas",
   "item.aestheticedges.curtain_white": "Cortina",
   "item.aestheticedges.curtain_yellow": "Cortina",
-  "itemgroup.aedgstab": "Aesthetic Edges"
+  "itemGroup.aestheticedges.aedgstab": "Aesthetic Edges"
 }

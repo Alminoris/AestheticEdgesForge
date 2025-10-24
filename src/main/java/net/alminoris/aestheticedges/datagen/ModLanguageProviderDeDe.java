@@ -179,6 +179,6 @@ public class ModLanguageProviderDeDe extends LanguageProvider
 
         add("item." + AestheticEdges.MOD_ID + ".curtain_remover", "Vorhangentferner");
 
-        add("itemgroup.aedgstab","Aesthetic Edges");
+        add("itemGroup.aestheticedges.aedgstab","Aesthetic Edges");
     }
 }

@@ -179,6 +179,6 @@ public class ModLanguageProviderRuRu extends LanguageProvider
 
         add("item." + AestheticEdges.MOD_ID + ".curtain_remover", "Съёмник штор");
 
-        add("itemgroup.aedgstab","Aesthetic Edges");
+        add("itemGroup.aestheticedges.aedgstab","Aesthetic Edges");
     }
 }

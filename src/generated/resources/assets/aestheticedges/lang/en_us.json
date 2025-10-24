@@ -2433,5 +2433,5 @@
   "item.aestheticedges.zombie_spawn_egg": "Zombie Spawn Egg",
   "item.aestheticedges.zombie_villager_spawn_egg": "Zombie Villager Spawn Egg",
   "item.aestheticedges.zombified_piglin_spawn_egg": "Zombified Piglin Spawn Egg",
-  "itemgroup.aedgstab": "Aesthetic Edges"
+  "itemGroup.aestheticedges.aedgstab": "Aesthetic Edges"
 }

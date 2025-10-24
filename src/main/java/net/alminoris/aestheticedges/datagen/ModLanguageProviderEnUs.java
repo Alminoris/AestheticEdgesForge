@@ -64,7 +64,7 @@ public class ModLanguageProviderEnUs extends LanguageProvider
             add("item." + AestheticEdges.MOD_ID + "." + path, displayName);
         }
 
-        add("itemgroup.aedgstab","Aesthetic Edges");
+        add("itemGroup.aestheticedges.aedgstab","Aesthetic Edges");
     }
 
     public static String movePrefix(String input, String[] arr)

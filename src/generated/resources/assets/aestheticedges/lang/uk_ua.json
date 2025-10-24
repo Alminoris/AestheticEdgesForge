@@ -474,5 +474,5 @@
   "item.aestheticedges.curtain_remover": "Знімач штор",
   "item.aestheticedges.curtain_white": "біла завіса",
   "item.aestheticedges.curtain_yellow": "Жовта завіса",
-  "itemgroup.aedgstab": "Aesthetic Edges"
+  "itemGroup.aestheticedges.aedgstab": "Aesthetic Edges"
 }

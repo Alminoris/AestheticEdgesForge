@@ -474,5 +474,5 @@
   "item.aestheticedges.curtain_remover": "Съёмник штор",
   "item.aestheticedges.curtain_white": "Белая занавеска",
   "item.aestheticedges.curtain_yellow": "Жёлтая занавеска",
-  "itemgroup.aedgstab": "Aesthetic Edges"
+  "itemGroup.aestheticedges.aedgstab": "Aesthetic Edges"
 }

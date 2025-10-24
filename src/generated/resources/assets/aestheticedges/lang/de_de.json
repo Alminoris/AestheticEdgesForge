@@ -474,5 +474,5 @@
   "item.aestheticedges.curtain_remover": "Vorhangentferner",
   "item.aestheticedges.curtain_white": "Weißer Vorhang",
   "item.aestheticedges.curtain_yellow": "Gelber Vorhang",
-  "itemgroup.aedgstab": "Aesthetic Edges"
+  "itemGroup.aestheticedges.aedgstab": "Aesthetic Edges"
 }

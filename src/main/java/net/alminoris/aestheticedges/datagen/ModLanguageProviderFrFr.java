@@ -179,6 +179,6 @@ public class ModLanguageProviderFrFr extends LanguageProvider
 
         add("item." + AestheticEdges.MOD_ID + ".curtain_remover", "Démonte-rideaux");
 
-        add("itemgroup.aedgstab","Aesthetic Edges");
+        add("itemGroup.aestheticedges.aedgstab","Aesthetic Edges");
     }
 }
