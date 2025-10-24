@@ -3,6 +3,7 @@ package net.alminoris.aestheticedges.item;
 import net.alminoris.aestheticedges.AestheticEdges;
 import net.alminoris.aestheticedges.block.ModBlocks;
 import net.minecraft.network.chat.Component;
+import net.minecraft.network.chat.TranslatableComponent;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 
@@ -37,7 +38,7 @@ public class ModItemGroups
 
         @Override
         public Component getDisplayName() {
-            return Component.translatable("itemGroup." + AestheticEdges.MOD_ID + ".aedgstab");
+            return new TranslatableComponent("itemGroup." + AestheticEdges.MOD_ID + ".aedgstab");
         }
     };
 

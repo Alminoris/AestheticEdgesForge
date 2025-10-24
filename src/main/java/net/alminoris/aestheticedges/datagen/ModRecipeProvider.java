@@ -5,7 +5,6 @@ import net.alminoris.aestheticedges.item.ModItemGroups;
 import net.alminoris.aestheticedges.item.ModItems;
 import net.alminoris.aestheticedges.util.helper.BlockSetsHelper;
 import net.alminoris.aestheticedges.util.helper.ModJsonHelper;
-import net.minecraft.core.HolderLookup;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.recipes.FinishedRecipe;
 import net.minecraft.data.recipes.RecipeProvider;

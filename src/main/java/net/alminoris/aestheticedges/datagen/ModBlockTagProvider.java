@@ -1,9 +1,6 @@
 package net.alminoris.aestheticedges.datagen;
 
 import net.alminoris.aestheticedges.AestheticEdges;
-import net.alminoris.aestheticedges.block.ModBlocks;
-import net.alminoris.aestheticedges.util.helper.BlockSetsHelper;
-import net.minecraft.core.HolderLookup;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.tags.BlockTagsProvider;
 import net.minecraft.tags.BlockTags;
