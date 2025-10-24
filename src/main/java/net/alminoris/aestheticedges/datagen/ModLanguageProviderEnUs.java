@@ -2,7 +2,7 @@ package net.alminoris.aestheticedges.datagen;
 
 import net.alminoris.aestheticedges.AestheticEdges;
 import net.alminoris.aestheticedges.util.helper.BlockSetsHelper;
-import net.minecraft.data.PackOutput;
+import net.minecraft.data.DataGenerator;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
@@ -18,7 +18,7 @@ import static org.apache.commons.lang3.StringUtils.capitalize;
 
 public class ModLanguageProviderEnUs extends LanguageProvider
 {
-    public ModLanguageProviderEnUs(PackOutput output)
+    public ModLanguageProviderEnUs(DataGenerator output)
     {
         super(output, AestheticEdges.MOD_ID, "en_us");
     }

@@ -1,7 +1,6 @@
 package net.alminoris.aestheticedges.util;
 
 import net.alminoris.aestheticedges.AestheticEdges;
-import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.tags.BiomeTags;
 import net.minecraft.tags.BlockTags;

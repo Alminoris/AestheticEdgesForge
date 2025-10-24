@@ -2,10 +2,11 @@ package net.alminoris.aestheticedges.datagen;
 
 import net.alminoris.aestheticedges.AestheticEdges;
 import net.alminoris.aestheticedges.block.ModBlocks;
+import net.alminoris.aestheticedges.item.ModItemGroups;
 import net.alminoris.aestheticedges.util.helper.BlockSetsHelper;
 import net.alminoris.aestheticedges.util.helper.ModJsonHelper;
 import net.alminoris.aestheticedges.util.helper.ModJsonTemplates;
-import net.minecraft.data.PackOutput;
+import net.minecraft.data.DataGenerator;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.client.model.generators.BlockStateProvider;
@@ -23,7 +24,7 @@ import static net.alminoris.aestheticedges.util.helper.BlockSetsHelper.COLORS;
 
 public class ModBlockStateProvider extends BlockStateProvider
 {
-    public ModBlockStateProvider(PackOutput output, ExistingFileHelper exFileHelper)
+    public ModBlockStateProvider(DataGenerator output, ExistingFileHelper exFileHelper)
     {
         super(output, AestheticEdges.MOD_ID, exFileHelper);
     }
@@ -48,7 +49,7 @@ public class ModBlockStateProvider extends BlockStateProvider
             registerEdge(ModJsonTemplates.SIMPLE_CURB_OUTER_MODEL_TEMPLATE, ModBlocks.SIMPLE_CURBS_OUTER.get(name), name, "minecraft");
         }
 
-        for(String name : BlockSetsHelper.EXTRA_STONES_WF)
+        for(String name : ModItemGroups.EXTRA_STONES_WF)
         {
             registerCurtainRod(ModBlocks.CURTAIN_RODS.get(name), name, name, "aestheticedges");
 
@@ -76,7 +77,7 @@ public class ModBlockStateProvider extends BlockStateProvider
             registerEdge(ModJsonTemplates.BASEBOARD_OUTER_MODEL_TEMPLATE, ModBlocks.BASEBOARDS_OUTER.get(name), name+"_planks", "minecraft");
         }
 
-        for(String name : BlockSetsHelper.EXTRA_WOODS_AN)
+        for(String name : ModItemGroups.AN_WOOD_NAMES)
         {
             registerCurtainRod(ModBlocks.CURTAIN_RODS.get(name), name, "stripped_"+name+"_log", "aestheticedges");
 
@@ -85,7 +86,7 @@ public class ModBlockStateProvider extends BlockStateProvider
             registerEdge(ModJsonTemplates.BASEBOARD_OUTER_MODEL_TEMPLATE, ModBlocks.BASEBOARDS_OUTER.get(name), name+"_planks", "aestheticedges");
         }
 
-        for(String name : BlockSetsHelper.EXTRA_WOODS_WF)
+        for(String name : ModItemGroups.WF_WOOD_NAMES)
         {
             registerCurtainRod(ModBlocks.CURTAIN_RODS.get(name), name, "stripped_"+name+"_log", "aestheticedges");
 
@@ -94,7 +95,7 @@ public class ModBlockStateProvider extends BlockStateProvider
             registerEdge(ModJsonTemplates.BASEBOARD_OUTER_MODEL_TEMPLATE, ModBlocks.BASEBOARDS_OUTER.get(name), name+"_planks", "aestheticedges");
         }
 
-        for(String name : BlockSetsHelper.WT_WOOD_NAMES)
+        for(String name : ModItemGroups.WT_WOOD_NAMES)
         {
             registerCurtainRod(ModBlocks.CURTAIN_RODS.get(name), name, "stripped_"+name+"_log", "aestheticedges");
 
@@ -103,7 +104,7 @@ public class ModBlockStateProvider extends BlockStateProvider
             registerEdge(ModJsonTemplates.BASEBOARD_OUTER_MODEL_TEMPLATE, ModBlocks.BASEBOARDS_OUTER.get(name), name+"_planks", "aestheticedges");
         }
 
-        for(String name : BlockSetsHelper.ST_WOOD_NAMES)
+        for(String name : ModItemGroups.ST_WOOD_NAMES)
         {
             registerCurtainRod(ModBlocks.CURTAIN_RODS.get(name), name, "stripped_"+name+"_log", "aestheticedges");
 
@@ -112,7 +113,7 @@ public class ModBlockStateProvider extends BlockStateProvider
             registerEdge(ModJsonTemplates.BASEBOARD_OUTER_MODEL_TEMPLATE, ModBlocks.BASEBOARDS_OUTER.get(name), name+"_planks", "aestheticedges");
         }
 
-        for(String name : BlockSetsHelper.MT_WOOD_NAMES)
+        for(String name : ModItemGroups.MT_WOOD_NAMES)
         {
             registerCurtainRod(ModBlocks.CURTAIN_RODS.get(name), name, "stripped_"+name+"_log", "aestheticedges");
 
@@ -121,7 +122,7 @@ public class ModBlockStateProvider extends BlockStateProvider
             registerEdge(ModJsonTemplates.BASEBOARD_OUTER_MODEL_TEMPLATE, ModBlocks.BASEBOARDS_OUTER.get(name), name+"_planks", "aestheticedges");
         }
 
-        for(String name : BlockSetsHelper.NSS_WOOD_NAMES)
+        for(String name : ModItemGroups.NSS_WOOD_NAMES)
         {
             registerCurtainRod(ModBlocks.CURTAIN_RODS.get(name), name, "stripped_"+name+"_log", "aestheticedges");
 

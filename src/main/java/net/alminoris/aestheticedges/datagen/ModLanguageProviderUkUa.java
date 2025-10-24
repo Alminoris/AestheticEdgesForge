@@ -1,7 +1,7 @@
 package net.alminoris.aestheticedges.datagen;
 
 import net.alminoris.aestheticedges.AestheticEdges;
-import net.minecraft.data.PackOutput;
+import net.minecraft.data.DataGenerator;
 import net.minecraftforge.common.data.LanguageProvider;
 
 import java.util.LinkedHashMap;
@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class ModLanguageProviderUkUa extends LanguageProvider
 {
-    public ModLanguageProviderUkUa(PackOutput output)
+    public ModLanguageProviderUkUa(DataGenerator output)
     {
         super(output, AestheticEdges.MOD_ID, "uk_ua");
     }
