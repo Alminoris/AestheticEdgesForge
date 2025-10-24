@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aestheticedges:block/baseboard_inner_oak" },
+    "facing=south": { "model": "aestheticedges:block/baseboard_inner_oak", "y": 180 },
+    "facing=west": { "model": "aestheticedges:block/baseboard_inner_oak", "y": 270 },
+    "facing=east": { "model": "aestheticedges:block/baseboard_inner_oak", "y": 90 }
+  }
+}

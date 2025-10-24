@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "wildfields:loamy_marl_block"
+  },
+  "result": {
+    "count": 2,
+    "id": "aestheticedges:curtain_rod_loamy_marl_block"
+  }
+}

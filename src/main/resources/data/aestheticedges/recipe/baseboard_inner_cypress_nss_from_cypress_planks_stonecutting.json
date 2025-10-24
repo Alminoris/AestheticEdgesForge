@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "natures_spirit:cypress_planks"
+  },
+  "result": {
+    "count": 2,
+    "id": "aestheticedges:baseboard_inner_cypress_nss"
+  }
+}

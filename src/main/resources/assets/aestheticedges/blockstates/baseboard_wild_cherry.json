@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aestheticedges:block/baseboard_wild_cherry" },
+    "facing=south": { "model": "aestheticedges:block/baseboard_wild_cherry", "y": 180 },
+    "facing=west": { "model": "aestheticedges:block/baseboard_wild_cherry", "y": 270 },
+    "facing=east": { "model": "aestheticedges:block/baseboard_wild_cherry", "y": 90 }
+  }
+}

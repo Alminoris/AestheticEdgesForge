@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "wildfields:loessic_marl_block"
+  },
+  "result": {
+    "count": 4,
+    "id": "aestheticedges:curbstone_outer_loessic_marl_block"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "natures_spirit:redwood_planks"
+  },
+  "result": {
+    "count": 4,
+    "id": "aestheticedges:baseboard_outer_redwood_nss"
+  }
+}

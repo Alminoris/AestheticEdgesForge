@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aestheticedges:block/baseboard_outer_bamboo" },
+    "facing=south": { "model": "aestheticedges:block/baseboard_outer_bamboo", "y": 180 },
+    "facing=west": { "model": "aestheticedges:block/baseboard_outer_bamboo", "y": 270 },
+    "facing=east": { "model": "aestheticedges:block/baseboard_outer_bamboo", "y": 90 }
+  }
+}

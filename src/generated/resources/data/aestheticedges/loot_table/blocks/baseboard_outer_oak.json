@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "aestheticedges:baseboard_outer_oak"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "aestheticedges:blocks/baseboard_outer_oak"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "wildfields:saltmarsh_block"
+  },
+  "result": {
+    "count": 3,
+    "id": "aestheticedges:curbstone_high_outer_saltmarsh_block"
+  }
+}

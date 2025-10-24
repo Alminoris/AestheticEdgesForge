@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:basalt"
+  },
+  "result": {
+    "count": 4,
+    "id": "aestheticedges:curbstone_outer_basalt_side"
+  }
+}

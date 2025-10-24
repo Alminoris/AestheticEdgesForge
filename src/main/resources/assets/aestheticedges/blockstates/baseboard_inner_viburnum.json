@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aestheticedges:block/baseboard_inner_viburnum" },
+    "facing=south": { "model": "aestheticedges:block/baseboard_inner_viburnum", "y": 180 },
+    "facing=west": { "model": "aestheticedges:block/baseboard_inner_viburnum", "y": 270 },
+    "facing=east": { "model": "aestheticedges:block/baseboard_inner_viburnum", "y": 90 }
+  }
+}

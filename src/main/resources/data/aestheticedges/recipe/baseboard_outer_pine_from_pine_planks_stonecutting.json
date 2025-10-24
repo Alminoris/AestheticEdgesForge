@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "arborealnature:pine_planks"
+  },
+  "result": {
+    "count": 4,
+    "id": "aestheticedges:baseboard_outer_pine"
+  }
+}

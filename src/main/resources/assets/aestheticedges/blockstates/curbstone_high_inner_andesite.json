@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aestheticedges:block/curbstone_high_inner_andesite" },
+    "facing=south": { "model": "aestheticedges:block/curbstone_high_inner_andesite", "y": 180 },
+    "facing=west": { "model": "aestheticedges:block/curbstone_high_inner_andesite", "y": 270 },
+    "facing=east": { "model": "aestheticedges:block/curbstone_high_inner_andesite", "y": 90 }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aestheticedges:block/baseboard_inner_larch" },
+    "facing=south": { "model": "aestheticedges:block/baseboard_inner_larch", "y": 180 },
+    "facing=west": { "model": "aestheticedges:block/baseboard_inner_larch", "y": 270 },
+    "facing=east": { "model": "aestheticedges:block/baseboard_inner_larch", "y": 90 }
+  }
+}

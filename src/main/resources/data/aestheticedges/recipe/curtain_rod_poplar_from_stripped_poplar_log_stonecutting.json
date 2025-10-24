@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "whisperleaftrees:stripped_poplar_log"
+  },
+  "result": {
+    "count": 2,
+    "id": "aestheticedges:curtain_rod_poplar"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aestheticedges:block/baseboard_juniper" },
+    "facing=south": { "model": "aestheticedges:block/baseboard_juniper", "y": 180 },
+    "facing=west": { "model": "aestheticedges:block/baseboard_juniper", "y": 270 },
+    "facing=east": { "model": "aestheticedges:block/baseboard_juniper", "y": 90 }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aestheticedges:block/baseboard_plum" },
+    "facing=south": { "model": "aestheticedges:block/baseboard_plum", "y": 180 },
+    "facing=west": { "model": "aestheticedges:block/baseboard_plum", "y": 270 },
+    "facing=east": { "model": "aestheticedges:block/baseboard_plum", "y": 90 }
+  }
+}

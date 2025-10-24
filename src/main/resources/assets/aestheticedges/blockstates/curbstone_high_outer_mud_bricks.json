@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aestheticedges:block/curbstone_high_outer_mud_bricks" },
+    "facing=south": { "model": "aestheticedges:block/curbstone_high_outer_mud_bricks", "y": 180 },
+    "facing=west": { "model": "aestheticedges:block/curbstone_high_outer_mud_bricks", "y": 270 },
+    "facing=east": { "model": "aestheticedges:block/curbstone_high_outer_mud_bricks", "y": 90 }
+  }
+}
