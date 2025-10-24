@@ -1,14 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
   "key": {
     "#": {
       "item": "minecraft:blue_wool"
     }
   },
-  "pattern": [
-    "#",
-    "#"
-  ],
   "result": {
     "item": "aestheticedges:curtain_blue"
   }

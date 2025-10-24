@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 8,
   "ingredient": {
     "item": "minecraft:andesite"
   },
-  "result": "aestheticedges:simple_curb_outer_andesite"
+  "result": "aestheticedges:simple_curb_outer_andesite",
+  "count": 8
 }

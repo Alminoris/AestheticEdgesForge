@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 3,
   "ingredient": {
     "item": "minecraft:blackstone"
   },
-  "result": "aestheticedges:curbstone_blackstone"
+  "result": "aestheticedges:curbstone_blackstone",
+  "count": 3
 }

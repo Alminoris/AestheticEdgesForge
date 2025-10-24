@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 3,
   "ingredient": {
     "item": "minecraft:jungle_planks"
   },
-  "result": "aestheticedges:baseboard_jungle"
+  "result": "aestheticedges:baseboard_jungle",
+  "count": 3
 }

@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 2,
   "ingredient": {
     "item": "minecraft:andesite"
   },
-  "result": "aestheticedges:curtain_rod_andesite"
+  "result": "aestheticedges:curtain_rod_andesite",
+  "count": 2
 }

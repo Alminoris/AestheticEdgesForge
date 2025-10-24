@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 4,
   "ingredient": {
     "item": "minecraft:sandstone"
   },
-  "result": "aestheticedges:simple_curb_sandstone"
+  "result": "aestheticedges:simple_curb_sandstone",
+  "count": 4
 }

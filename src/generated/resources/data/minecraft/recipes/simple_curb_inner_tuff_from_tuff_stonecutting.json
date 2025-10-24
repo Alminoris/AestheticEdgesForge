@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 2,
   "ingredient": {
     "item": "minecraft:tuff"
   },
-  "result": "aestheticedges:simple_curb_inner_tuff"
+  "result": "aestheticedges:simple_curb_inner_tuff",
+  "count": 2
 }

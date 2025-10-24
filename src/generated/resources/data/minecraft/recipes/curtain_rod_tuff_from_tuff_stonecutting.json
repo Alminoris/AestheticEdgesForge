@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 2,
   "ingredient": {
     "item": "minecraft:tuff"
   },
-  "result": "aestheticedges:curtain_rod_tuff"
+  "result": "aestheticedges:curtain_rod_tuff",
+  "count": 2
 }

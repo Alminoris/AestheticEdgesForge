@@ -1,14 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
   "key": {
     "#": {
       "item": "minecraft:light_gray_wool"
     }
   },
-  "pattern": [
-    "#",
-    "#"
-  ],
   "result": {
     "item": "aestheticedges:curtain_light_gray"
   }

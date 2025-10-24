@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 2,
   "ingredient": {
     "item": "minecraft:stripped_birch_log"
   },
-  "result": "aestheticedges:curtain_rod_birch"
+  "result": "aestheticedges:curtain_rod_birch",
+  "count": 2
 }

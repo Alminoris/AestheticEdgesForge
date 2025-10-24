@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 3,
   "ingredient": {
     "item": "minecraft:diorite"
   },
-  "result": "aestheticedges:curbstone_diorite"
+  "result": "aestheticedges:curbstone_diorite",
+  "count": 3
 }

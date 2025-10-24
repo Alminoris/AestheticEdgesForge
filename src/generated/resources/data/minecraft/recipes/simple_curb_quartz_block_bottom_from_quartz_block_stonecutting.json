@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 4,
   "ingredient": {
     "item": "minecraft:quartz_block"
   },
-  "result": "aestheticedges:simple_curb_quartz_block_bottom"
+  "result": "aestheticedges:simple_curb_quartz_block_bottom",
+  "count": 4
 }

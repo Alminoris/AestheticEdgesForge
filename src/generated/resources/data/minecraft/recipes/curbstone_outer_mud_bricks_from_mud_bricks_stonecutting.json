@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 4,
-  "ingredient": {
-    "item": "minecraft:mud_bricks"
-  },
-  "result": "aestheticedges:curbstone_outer_mud_bricks"
-}

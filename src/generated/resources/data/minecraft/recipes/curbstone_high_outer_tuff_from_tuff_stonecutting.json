@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 3,
   "ingredient": {
     "item": "minecraft:tuff"
   },
-  "result": "aestheticedges:curbstone_high_outer_tuff"
+  "result": "aestheticedges:curbstone_high_outer_tuff",
+  "count": 3
 }

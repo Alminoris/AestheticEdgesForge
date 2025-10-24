@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 2,
   "ingredient": {
     "item": "minecraft:diorite"
   },
-  "result": "aestheticedges:curtain_rod_diorite"
+  "result": "aestheticedges:curtain_rod_diorite",
+  "count": 2
 }

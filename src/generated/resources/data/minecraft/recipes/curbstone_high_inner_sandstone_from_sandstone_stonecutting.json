@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 1,
   "ingredient": {
     "item": "minecraft:sandstone"
   },
-  "result": "aestheticedges:curbstone_high_inner_sandstone"
+  "result": "aestheticedges:curbstone_high_inner_sandstone",
+  "count": 1
 }

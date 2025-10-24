@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     "minecraft:clay",
     "minecraft:dirt",
@@ -31,8 +32,6 @@
     "minecraft:red_concrete_powder",
     "minecraft:black_concrete_powder",
     "minecraft:soul_soil",
-    "minecraft:rooted_dirt",
-    "minecraft:muddy_mangrove_roots",
-    "minecraft:mud"
+    "minecraft:rooted_dirt"
   ]
 }

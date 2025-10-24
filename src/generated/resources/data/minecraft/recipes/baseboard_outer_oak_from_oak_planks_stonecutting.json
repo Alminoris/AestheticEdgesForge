@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 4,
   "ingredient": {
     "item": "minecraft:oak_planks"
   },
-  "result": "aestheticedges:baseboard_outer_oak"
+  "result": "aestheticedges:baseboard_outer_oak",
+  "count": 4
 }

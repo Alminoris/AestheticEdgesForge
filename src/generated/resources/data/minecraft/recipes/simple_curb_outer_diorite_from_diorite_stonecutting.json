@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 8,
   "ingredient": {
     "item": "minecraft:diorite"
   },
-  "result": "aestheticedges:simple_curb_outer_diorite"
+  "result": "aestheticedges:simple_curb_outer_diorite",
+  "count": 8
 }

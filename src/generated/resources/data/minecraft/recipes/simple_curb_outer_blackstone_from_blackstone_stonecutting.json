@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 8,
   "ingredient": {
     "item": "minecraft:blackstone"
   },
-  "result": "aestheticedges:simple_curb_outer_blackstone"
+  "result": "aestheticedges:simple_curb_outer_blackstone",
+  "count": 8
 }

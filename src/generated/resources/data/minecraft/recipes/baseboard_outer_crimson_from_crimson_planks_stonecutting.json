@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 4,
   "ingredient": {
     "item": "minecraft:crimson_planks"
   },
-  "result": "aestheticedges:baseboard_outer_crimson"
+  "result": "aestheticedges:baseboard_outer_crimson",
+  "count": 4
 }

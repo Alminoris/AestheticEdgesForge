@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 2,
   "ingredient": {
     "item": "minecraft:spruce_planks"
   },
-  "result": "aestheticedges:baseboard_inner_spruce"
+  "result": "aestheticedges:baseboard_inner_spruce",
+  "count": 2
 }

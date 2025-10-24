@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 3,
   "ingredient": {
     "item": "minecraft:warped_planks"
   },
-  "result": "aestheticedges:baseboard_warped"
+  "result": "aestheticedges:baseboard_warped",
+  "count": 3
 }

@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "count": 3,
   "ingredient": {
     "item": "minecraft:deepslate"
   },
-  "result": "aestheticedges:curbstone_deepslate"
+  "result": "aestheticedges:curbstone_deepslate",
+  "count": 3
 }
