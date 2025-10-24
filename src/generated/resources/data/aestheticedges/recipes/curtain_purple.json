@@ -1,6 +1,5 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
   "key": {
     "#": {
       "item": "minecraft:purple_wool"
@@ -12,6 +11,5 @@
   ],
   "result": {
     "item": "aestheticedges:curtain_purple"
-  },
-  "show_notification": true
+  }
 }

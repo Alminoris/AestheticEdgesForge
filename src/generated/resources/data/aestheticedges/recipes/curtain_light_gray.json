@@ -1,6 +1,5 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
   "key": {
     "#": {
       "item": "minecraft:light_gray_wool"
@@ -12,6 +11,5 @@
   ],
   "result": {
     "item": "aestheticedges:curtain_light_gray"
-  },
-  "show_notification": true
+  }
 }
